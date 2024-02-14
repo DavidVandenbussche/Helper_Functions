@@ -1,2 +1,2 @@
 # useful_func
-Contains few useful functions for risk management of bots, and indicators
+Contains some useful functions for risk management of bots that I use for every bots, and some interesting indicators like SMA or VWAP
